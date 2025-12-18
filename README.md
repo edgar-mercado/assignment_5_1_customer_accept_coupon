@@ -52,16 +52,27 @@ Coupons seem to be more effective for occasional visitors.
 
 ---
 
-## Conclusion
-Customers who accept coupons usually prefer:
-- Convenient and easy offers  
-- Short travel distances  
-- Social situations  
-- Flexible times of the day  
+## Findings and Recommendations
 
-Customers who do not accept coupons are often in situations where the offer feels less convenient or less useful.
+### Findings (summary)
 
-Overall, context and customer behavior play an important role in coupon acceptance.
+Short travel distance is very important. When the place is close, people accept the coupon more.
+
+Coffee coupons are accepted more during the day, especially late morning and afternoon.
+
+People accept coupons more when they are with friends. When they have kids, acceptance is lower.
+
+Carry-out and cheap restaurant coupons are accepted more often than bar coupons or expensive restaurants.
+
+### Actionable recommendations
+
+Focus on coupons that are close to the customer (around 5–15 minutes travel).
+
+Show coffee coupons mostly during daytime hours. Bar coupons work better in social or event times.
+
+Target users who are with friends or in social situations. Avoid strong targeting to drivers with kids.
+
+Keep redemption simple, especially for carry-out and low-cost restaurant coupons.
 
 ---
 
