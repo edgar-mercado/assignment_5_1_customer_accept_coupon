@@ -67,16 +67,12 @@ Overall, context and customer behavior play an important role in coupon acceptan
 
 ## Project Files
 
-- 📓 **Jupyter Notebook**:  
+- **Jupyter Notebook**:  
   [prompt.ipynb](./prompt.ipynb)
 
-- 🌐 **HTML Export of the Analysis**:  
-  [prompt.html](./prompt.html)
-
-- 📊 **Dataset Used**:  
+- **Dataset Used**:  
   [data/coupons.csv](./data/coupons.csv)
 
-- 📦 **Dependencies**:
+- **Dependencies**:
   [requirements.txt](./requirements.txt)
 
-> Note: The HTML file is an exported version of the notebook for easy viewing without running code.
